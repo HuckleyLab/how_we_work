@@ -23,7 +23,7 @@ You can add the Biology department Google Calendar to your Google Calendar [here
 Resources for getting to UW (including UPASSes) are [here](https://transportation.uw.edu/).
 
 ## Discussion seminars and department seminars
-*Ecology Seminar (Biol560c) held in A023D at 9:30 on Friday mornings. [Subscribe to mailing list here](http://mailman13.u.washington.edu/mailman/listinfo/ecoseminar)
+* Ecology Seminar (Biol560c) held in A023D at 9:30 on Friday mornings. [Subscribe to mailing list here](http://mailman13.u.washington.edu/mailman/listinfo/ecoseminar)
 
 * [Biology](https://www.biology.washington.edu/news/events/seminars)
 
