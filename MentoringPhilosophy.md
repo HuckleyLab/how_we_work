@@ -1,11 +1,4 @@
----
-title: "Buckley Lab Mentoring Philosophy"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+#Buckley Lab Mentoring Philosophy
 
 ## Overview 
 Most research in the Buckley lab concerns functional ecology, evolution, and biogeography in changing environments, a broad and complex topic leaving lots of room for creative and interdisciplinary approaches and independent projects. One focus of the lab is coupling theoretical and quantitative tools with data collection. I feel that combining multiple approaches is central to tackling questions of environmental change and a primary benefit of choosing to conduct graduate research in the Buckley lab. Student projects often span two of the following three approaches: theory, ecoinformatic analysis, and field or lab work. My goal as a mentor is to facilitate students learning how to identify interesting questions, develop feasible approaches, and process and synthesize information to address the question. 
