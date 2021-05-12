@@ -1,4 +1,10 @@
 # how_we_work
+## Lab mission statement
+
+## Lab values [ or other term culture / policies /]
+
+## Lab How We Work resources
+
 This repository compiles lab best practices and policies to conduct open, reproducible, and inspiring science that is efficient and fun.
 
 * [Lab Mentoring Philosophy](https://github.com/HuckleyLab/how_we_work/blob/master/MentoringPhilosophy.md)
