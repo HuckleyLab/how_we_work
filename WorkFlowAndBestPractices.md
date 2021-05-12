@@ -17,7 +17,7 @@ We use the [UW Google G Suite resources](https://itconnect.uw.edu/connect/email/
 You are expected to use Github to version control your code and other files.  We have Github organizations for the [Huckley Lab](https://github.com/HuckleyLab), [TrEnCh project](https://github.com/trenchproject/), and the [TrEnCh project education website](https://github.com/trench-ed).
 
 ### Code
-Lauren primarily works in R and R studio since it has a great ecology and evolution community including many specialized packages. Other lab members have chosen to primarily use Phython, which also has a strong community and resources. Github integrates easily with R studio ([described here](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)). Google Drive files can be easily read and writted from Rstudio: `setwd("/Volumes/GoogleDrive/Shared drives/TrEnCh/Projects/")`. 
+Lauren primarily works in R and R studio since it has a great ecology and evolution community including many specialized packages. Other lab members have chosen to primarily use Phython, which also has a strong community and resources. Github integrates easily with R studio (described briefly [here](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/) and thoroughly [here](https://happygitwithr.com/) ). Google Drive files can be easily read and writted from Rstudio: `setwd("/Volumes/GoogleDrive/Shared drives/TrEnCh/Projects/")`. 
 
 For analytics, Mathematica and Matlab are useful and available from UW. ArcGIS including ArpMap and ArcInfo is available for download, but much spatial analysis can now be done in R or similar programs.
 
