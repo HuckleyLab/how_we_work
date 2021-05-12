@@ -1,7 +1,7 @@
 # how_we_work
 ## Lab mission statement
 
-## Lab values [ or other term culture / policies /]
+## Lab principles
 
 ## Lab How We Work resources
 
