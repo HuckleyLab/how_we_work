@@ -22,6 +22,8 @@ This repository compiles lab best practices and policies to conduct open, reprod
 
 * [Lab Mentoring Philosophy](https://github.com/HuckleyLab/how_we_work/blob/master/MentoringPhilosophy.md)
 
+* [Mentorship compact](https://github.com/HuckleyLab/how_we_work/blob/master/MentoringCompact.md)
+
 * [Workflow and best practices](https://github.com/HuckleyLab/how_we_work/blob/master/WorkFlowAndBestPractices.md)
 
 * [Lab safety and Onboarding](https://github.com/HuckleyLab/how_we_work/blob/master/SafetyAndOnboarding.md)
