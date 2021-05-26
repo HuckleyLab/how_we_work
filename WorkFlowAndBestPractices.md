@@ -27,12 +27,12 @@ For analytics, Mathematica and Matlab are useful and available from UW. ArcGIS i
 _Adapted from the QERM seminar presentation of Connie Okasaki, John Best, Maria Kuruvilla, Martin Endress, Michele Buonanduci_
 Hyak is UW's shared computing cluster. You can send jobs to run in parallel on Hyak and access their GPU nodes.
 ##### Getting access for the first time
-Join Mailing list and uw-rcc Slack Team [here](http://mailman12.u.washington.edu/mailman/listinfo/hpc-list)
-Read [Hyak Wiki](https://wiki.cac.washington.edu/display/hyakusers/WIKI+for+Hyak+users)
-Take the [hyak quiz](http://depts.washington.edu/uwrcc/getting-started-2/getting-started/)
-Email uwrcc@uw.edu with the subject line “Hyak Account”
-Set up [2 Factor Authentication](https://itconnect.uw.edu/security/uw-netids/2fa/)
-Add Hyak and Lolo as services [here](https://uwnetid.washington.edu/manage/)
+* Join Mailing list and uw-rcc Slack Team [here](http://mailman12.u.washington.edu/mailman/listinfo/hpc-list)
+* Read [Hyak Wiki](https://wiki.cac.washington.edu/display/hyakusers/WIKI+for+Hyak+users)
+* Take the [hyak quiz](http://depts.washington.edu/uwrcc/getting-started-2/getting-started/)
+* Email uwrcc@uw.edu with the subject line “Hyak Account”
+* Set up [2 Factor Authentication](https://itconnect.uw.edu/security/uw-netids/2fa/)
+* Add Hyak and Lolo as services [here](https://uwnetid.washington.edu/manage/)
 ##### Requesting nodes (to be filled in soon!)
 [Abby / Lauren- Add cloud computing
 
