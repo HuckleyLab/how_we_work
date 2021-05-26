@@ -1,4 +1,7 @@
 # how_we_work
+We're a research lab in the department of Biology at the University of Washington focused functional ecology, evolution, and biogeography for changing environments.  Our research is described on our [lab website](http://faculty.washington.edu/lbuckley/). TrenchProject.... GitHub organizations
+
+
 ## Lab mission statement
 We seek to identify the mechanisms by which organisms interact with their environment that are most important for ecological and evolutionary outcomes. Mechanisms are central to predicting responses to climate change due to non-linearities and thresholds in biological responses, environmental variability, and the emergence of novel environments. We develop mechanistic models linking phenotype to fitness as a function of environmental conditions. We look to natural history collections and field and lab resurveys to test our models. We turn to biologically-informed data science approaches to test generality. We seek a middle ground whereby models capture enough of the biology for accurate prediction but remain tractable. We are increasingly accounting for genomic and physiological mechanisms as we seek to scale across levels of organizations. (Extended version [here](https://github.com/HuckleyLab/how_we_work/blob/master/ExtendedLabMission.md)).
 
