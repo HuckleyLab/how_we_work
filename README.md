@@ -1,5 +1,6 @@
 # how_we_work
-We're a research lab in the department of Biology at the University of Washington focused functional ecology, evolution, and biogeography for changing environments.  Our research is described on our [lab website](http://faculty.washington.edu/lbuckley/). TrenchProject.... GitHub organizations
+We're a research lab in the department of Biology at the University of Washington focused functional ecology, evolution, and biogeography for changing environments.  Our research is described on our [lab website](http://faculty.washington.edu/lbuckley/). Our TrEnCh (Translating Environmental Change) prject is an arm of the lab focused on buildign computational and visualization tooles to understand how organisms experience climate change.
+TrenchProject.... GitHub organizations
 
 
 ## Lab mission statement
