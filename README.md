@@ -4,7 +4,7 @@ We're a research group based in the [Department of Biology](https://www.biology.
 
 ## Lab mission statement
 #### The challenge
-Understanding and anticipating how species respond to climate variability and change is both a critical applied need and a fascinating opportunity to test ecological and evolutionary principles. We are motivated by shifts in organismal traits, population demography, species distributions, and community dynamics in response to climate change that are inconsistent with current, largely correlative models.
+Understanding and anticipating how species respond to climate variability and change is both a critical applied need to maintain biodiversity and ecosystem function and a fascinating opportunity to test ecological and evolutionary principles. We are motivated by shifts in organismal traits, population demography, species distributions, and community dynamics in response to climate change that are inconsistent with current, largely correlative models.
 
 #### Our approach
 We believe we can do better by moving beyond simple correlations to describe mechanisms, the processes by which organisms respond to environmental changes. Mechanisms are central to predicting responses to climate change due to non-linearities and thresholds in biological responses, environmental variability, and the emergence of novel environments. 
