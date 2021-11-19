@@ -1,5 +1,5 @@
 # how_we_work
-## Welcome to the Buckley research group resources [under development]
+## Welcome to the Buckley research group resources
 We're a research group based in the [Department of Biology](https://www.biology.washington.edu/) at the University of Washington focused functional ecology, evolution, and biogeography for changing environments.  Our research is described on our [group website](http://faculty.washington.edu/lbuckley/). Our [TrEnCh (Translating Environmental Change) Project](https://www.trenchproject.com/) is a branch of the group focused on building computational and visualization tools to understand how organisms experience climate change. We practice open science, so you can track our progress in our [research group](https://github.com/HuckleyLab) and [TrEnCh Project](https://github.com/trenchproject) GitHub organizations. 
 
 ## Lab mission statement
