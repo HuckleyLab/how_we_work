@@ -1,9 +1,9 @@
 # Workflow and best practices
 
 ## Messaging 
-The lab email list is huckleylist@uw.edu.  Let Lauren know if you need to be added.
+The lab email list is huckleylist@uw.edu, but we haven't been using it much due to primarily using Slack.  Let Lauren know if you need to be added.
 
-You are encouraged to reduce email use through using Slack. Our lab channel is https://huckley.slack.com/.  Lauren checks email only occasionally, so you’re likely to get a faster response through Slack or Trello.
+You are encouraged to reduce email use through using Slack. Our lab channel is https://huckley.slack.com/.  Lauren checks email only occasionally, so you’re likely to get a faster response through Slack.
 
 ## Workflow
 We aspire to conduct open and reproducible science. This includes sharing data and code and using transparent and reproducible workflows. We primarily use open source software as it is often more flexible and transparent and evolves more quickly. Much of the software used in the lab in available for [download from UW](https://itconnect.uw.edu/wares/uware/). Some resources for best practices for open and reproducible ecology and evolution:
