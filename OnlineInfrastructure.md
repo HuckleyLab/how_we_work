@@ -10,6 +10,7 @@ We have these main websites where you can find our work:
 * [github.com/trenchproject/TrenchR](https://github.com/trenchproject/TrenchR) -- TrenchR R package.
 * [trenchproject.github.io/TrenchR](https://trenchproject.github.io/TrenchR) -- TrenchR R package reference website.
 * [bookdown.org/huckley/Physical_Processes_In_Ecosystems](https://bookdown.org/huckley/Physical_Processes_In_Ecosystems) -- Educational modules introducing biophysical ecology and use of the TrenchR package. [Github page](https://github.com/trenchproject/TrenchRmodules).
-* [https://trenchproject.github.io/](https://trenchproject.github.io/) -- Inactive Trench Project notebook. [Github page](https://github.com/trenchproject/trenchproject.github.io)
+* [R-Docker-Server](https://github.com/trenchproject/R-Docker-Server) -- Github page for building out R Docker Server. The docker hosts the large files for the Trench-ED site. 
+* [trenchproject.github.io](https://trenchproject.github.io/) -- Inactive Trench Project notebook. [Github page](https://github.com/trenchproject/trenchproject.github.io).
 
 More information on each of these resources can be found in the README file in each of these Github repositories. Other details useful for lab members can be found in the shared google drive in the 'Projects' folder.
