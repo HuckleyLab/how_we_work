@@ -43,6 +43,8 @@ This repository compiles lab best practices and policies to conduct open, reprod
 
 * [Workflow and best practices](https://github.com/HuckleyLab/how_we_work/blob/master/WorkFlowAndBestPractices.md)
 
+* [Online Infrastructure](https://github.com/HuckleyLab/how_we_work/blob/master/OnlineInfrastructure.md)
+
 * [Lab safety and Onboarding](https://github.com/HuckleyLab/how_we_work/blob/master/SafetyAndOnboarding.md)
 
 * [Lab protocols and coding resources](https://github.com/HuckleyLab/how_we_work/blob/master/ProtocolsCoding.md)
