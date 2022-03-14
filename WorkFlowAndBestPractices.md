@@ -1,4 +1,4 @@
-# Workflow and best practices
+o# Workflow and best practices
 
 ## Messaging 
 The lab email list is huckleylist@uw.edu, but we haven't been using it much due to primarily using Slack.  Let Lauren know if you need to be added.
@@ -48,7 +48,7 @@ Lauren uses [Zotero](https://www.zotero.org/) as an open source reference softwa
 We are committed to sharing our research to a broader public. One way we accomplish this goal is using [RShiny](https://shiny.rstudio.com/gallery/) visualizations of data. These visualization allow end users to interact with scientific data more than possible in a scientific paper. Visualizations also broaden the reach of scientific work outside of the scientific community. For example, our visualizations target a high-school audience, and we work with local teachers to use our visualizations in the classroom. Check out our visualizations on [Trench-ED](https://trench-ed.trenchproject.com/RShiny)!
 
 ### Dissemination
-You will be added to the lab wordpress account so that you can edit our website.  You are encouraged to edit your profile on the “People” page in the “Connections” section of the Admin Dashboard.  Select your name and “edit” to add text, an image, etc. The website login is here: http://faculty.washington.edu/lbuckley/wordpress/wp-login.php. You are also encouraged to link to a personal website or create your own page on the lab site. The TrEnCh project has a Twitter (@TrenchGroup) and [Instagram](https://www.instagram.com/trenchproject/) account you are encouraged to use.
+You are encouraged to edit our wordpress lab website.  You can login to the website here using the lab login (ask Lauren if you need it): http://faculty.washington.edu/lbuckley/wordpress/wp-login.php. You are also encouraged to link to a personal website or create your own page on the lab site. The TrEnCh project has a Twitter (@TrenchGroup) and [Instagram](https://www.instagram.com/trenchproject/) account you are encouraged to use.
 
 
 
