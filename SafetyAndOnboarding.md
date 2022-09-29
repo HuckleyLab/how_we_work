@@ -13,6 +13,10 @@ The lab mailbox can be found one the first floor of LSB and office supplies can 
 
 Sign up for the Biology mailing list [here](http://mailman1.u.washington.edu/mailman/listinfo/biodept).  Sign up for the bio postdoc list [here](http://mailman13.u.washington.edu/mailman/listinfo/bio_postdocs).  Sign up for the bio grad list [here](http://mailman11.u.washington.edu/mailman/listinfo/bio_grads) (if you aren't added by the department.)
 
+Also, sign up for the LSB tetrapod (4th floor) mailing list [here]( http://mailman.u.washington.edu/mailman/listinfo/lsb_4/) and remind Lauren to add you to the floor [Google Drive](https://drive.google.com/drive/u/0/folders/0AIujQzFTLTuSUk9PVA) if you don't have access.
+
+There is a Slack channel for our research group (huckley.slack.com) and also the tetrapod (lsb4.slack.com).
+
 You can add the Biology department Google Calendar to your Google Calendar [here](http://www.biology.washington.edu/news/calendar%20).
 
 Resources for getting to UW (including UPASSes) are [here](https://transportation.uw.edu/).
