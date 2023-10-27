@@ -52,63 +52,64 @@ $${\color{purple}{Command}}$$
  
 
 **1. Write and debug your code**
-*Write small test examples
-*Check that code works in serial locally
-*Check that code works in parallel locally
-*Debug locally!
-*Run as a script from command line
+* Write small test examples
+* Check that code works in serial locally
+* Check that code works in parallel locally
+* Debug locally!
+* Run as a script from command line
 
 **2. Set up your compute environment**
-*Modules
-  *module load r_3.6.0
-  *May be out of date!
-*Roll-your-own
-  *More control
-  *Better BLAS library for R
-  *May end up compiling a lot of dependencies
+* Modules
+  * module load r_3.6.0
+  * May be out of date!
+* Roll-your-own
+  * More control
+  * Better BLAS library for R
+  * May end up compiling a lot of dependencies
 
 **3. Transfer data and code**
-*git via Github
-*sftp
-*sshfs
+* git via Github
+* sftp
+* sshfs
  
 **4. Write a SLURM script**
-*Use a template!
-  *Specify
-  *Partition
-  *Account
-  *Number of nodes
-  *Number of processors
-  *RAM
-  *Time
+* Use a template!
+  * Specify
+  * Partition
+  * Account
+  * Number of nodes
+  * Number of processors
+  * RAM
+  * Time
   
 **5. Submit your job**
 Submit:
-*sbatch longcompute.slurm
+* sbatch longcompute.slurm
 Check progress:
-*squeue -u $USER
+* squeue -u $USER
 Check resource usage:
-*ssh n1234
-*htop -u $USER
+* ssh n1234
+* htop -u $USER
 
 **6. Process and retrieve results**
-*Can have dependent jobs
-*Save what you need on gscratch
-*Use sftp or sshfs to retrieve results
+
+* Can have dependent jobs
+* Save what you need on gscratch
+* Use sftp or sshfs to retrieve results
  
 
 **Coding best practices**
-*Use checkpointing where possible
-*Choose level of parallelism:
-  *Within-computation (e.g. BLAS)
-  *Among-computations
-*Use gscratch to save work
+* Use checkpointing where possible
+* Choose level of parallelism:
+  * Within-computation (e.g. BLAS)
+  * Among-computations
+* Use gscratch to save work
  
 
 **File storage**
-*home: persistent, low performance, limited
-*gscratch: large, fast, short-term
-*lolo: extra-large, long-term only
+* home: persistent, low performance, limited
+* gscratch: large, fast, short-term
+* lolo: extra-large, long-term only
 
 ### Cloud Computing
 Our lab also utilizes new technologies to best do research and share our work. We have a lab AWS account for storage and computation. The [Trench-IR](https://trench-ir.trenchproject.com/) website uses the Azure cloud to host images, transform images, and serve the website. More information on our use of cloud computing in Trench-IR can be found [here](https://github.com/trenchproject/Trench-IR).
