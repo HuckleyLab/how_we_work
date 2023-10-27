@@ -37,8 +37,8 @@ srun -p stf-int -A stf --ntasks=8 --mem=20G --pty /bin/bash -l
 $${\color{black}-A srun \space\color{red}-p stf-int \space \color{yellow}-A stf \space \color{lightgreen}- -ntasks=8 \space \color{lightblue}- -mem=20G \space\color{purple}{- -pty /bin/bash -l}}$$
 $${\color{red}{Partition}}$$
 $${\color{yellow}{Account}}$$
-$${\color{lightgreen}{Number of processes (*)}}$$
-$${\color{lightblue}{Amount of RAM}}$$
+$${\color{lightgreen}{Number \space of \space processes (*)}}$$
+$${\color{lightblue}{Amount \space of \space RAM}}$$
 $${\color{purple}{Command}}$$
 
 ### Cloud Computing
