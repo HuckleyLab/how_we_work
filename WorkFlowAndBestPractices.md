@@ -35,6 +35,7 @@ Hyak is UW's shared computing cluster. You can send jobs to run in parallel on H
 ##### Requesting nodes (to be filled in soon!)
 <code style="color : red">text</code>
 $${\color{text}Red}$$
+$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
 
 ### Cloud Computing
 Our lab also utilizes new technologies to best do research and share our work. We have a lab AWS account for storage and computation. The [Trench-IR](https://trench-ir.trenchproject.com/) website uses the Azure cloud to host images, transform images, and serve the website. More information on our use of cloud computing in Trench-IR can be found [here](https://github.com/trenchproject/Trench-IR).
