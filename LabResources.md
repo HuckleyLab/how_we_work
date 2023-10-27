@@ -63,11 +63,11 @@
   
 * [NASA NSPIRES](https://nspires.nasaprs.com/external/)
  
-* [CHRYSALIS FUND: APPLY FOR FUNDING] (https://entsoc.org/support/chrysalis-fund/apply)
+* [CHRYSALIS FUND: APPLY FOR FUNDING](https://entsoc.org/support/chrysalis-fund/apply)
   
-* [USDA GRADUATE AND POSTGRADUATE FELLOWSHIP] (https://www.nifa.usda.gov/grants/funding-opportunities/national-needs-graduate-postgraduate-fellowship-grants-program-funding-opportunity)
+* [USDA GRADUATE AND POSTGRADUATE FELLOWSHIP](https://www.nifa.usda.gov/grants/funding-opportunities/national-needs-graduate-postgraduate-fellowship-grants-program-funding-opportunity)
   
-* [IBP PATHWAYS TO SCIENCE] (https://pathwaystoscience.org/Grad.aspx)
+* [IBP PATHWAYS TO SCIENCE](https://pathwaystoscience.org/Grad.aspx)
  
 
 ## Job resources
