@@ -33,9 +33,8 @@ Hyak is UW's shared computing cluster. You can send jobs to run in parallel on H
 * Set up [2 Factor Authentication](https://itconnect.uw.edu/security/uw-netids/2fa/)
 * Add Hyak and Lolo as services [here](https://uwnetid.washington.edu/manage/)
 ##### Requesting nodes (to be filled in soon!)
-<code style="color : red">text</code>
-$${\color{text}Red}$$
-$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
+srun -p stf-int -A stf --ntasks=8 --mem=20G --pty /bin/bash -l
+$${\color{black}-A srun \space\color{red}-p stf-int \space \color{yellow}-A stf \space \color{lightgreen}--ntasks=8 \space \color{blue}--mem=20G \space\color{purple}{--pty /bin/bash -l}}$$
 
 ### Cloud Computing
 Our lab also utilizes new technologies to best do research and share our work. We have a lab AWS account for storage and computation. The [Trench-IR](https://trench-ir.trenchproject.com/) website uses the Azure cloud to host images, transform images, and serve the website. More information on our use of cloud computing in Trench-IR can be found [here](https://github.com/trenchproject/Trench-IR).
