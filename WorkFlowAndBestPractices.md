@@ -1,4 +1,4 @@
-o# Workflow and best practices
+# Workflow and best practices
 
 ## Messaging 
 The lab primarily communicates via Slack.  Let Lauren know if you need to be added. You are encouraged to reduce email use through using Slack. Our lab channel is https://huckley.slack.com/.  Lauren checks email only occasionally, so you’re likely to get a faster response through Slack.
