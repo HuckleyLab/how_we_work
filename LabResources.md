@@ -17,16 +17,12 @@
 * [NEON](https://www.neonscience.org/)
 
 ## Paleodata
-* [Paleobiology database](http://fossilworks.org/)
-
 * [Paleontology database network](https://ucmp.berkeley.edu/pdn/)
 
 * [Neotomoa Paleoecology database](https://www.neotomadb.org/)
 
 ## Climate data and projections
 * [NA Regional Reanalysis](https://www.emc.ncep.noaa.gov/mmb/rreanl/)
-
-* [Ed Mauer’s GCMs](http://www.engr.scu.edu/~emaurer/data.shtml)
 
 ## Societies
 * [SICB](http://www.sicb.org/)
@@ -42,9 +38,7 @@
 * [SCB](https://conbio.org/)
 
 ## Professional development
-* [Spencer Hall’s advice and resources page](http://www.indiana.edu/~halllab/grad-student-resources.html)
-
-* [DISCCRS: Dissertations initiative for the advancement of climate change research](http://disccrs.org/)
+* [Spencer Hall’s advice and resources page](https://halllab2.sitehost.iu.edu/grad-student-resources.html)
 
 * [WEBS: Women Evolving Biological Sciences](https://advance.washington.edu/grants/past-initiatives/webs)
 
@@ -53,10 +47,6 @@
 ## Fellowships
 ### Graduate students
 * [NSF Graduate research fellowships](http://www.nsfgrfp.org/)
-
-* [NASA](https://www.nasa.gov/stem/fellowships-scholarships/index.html)
-
-* [DOD](https://ndseg.asee.org/)
 
 * [Ford Fellowships](https://sites.nationalacademies.org/pga/FordFellowships/index.htm)
 
@@ -70,8 +60,6 @@
 
 ## Funding
 * [NSF Biology](https://www.nsf.gov/dir/index.jsp?org=BIO)
-
-* [NSF Biology on Twitter](https://twitter.com/nsf_bio)
 
 * [NASA NSPIRES](https://nspires.nasaprs.com/external/)
 
