@@ -22,7 +22,6 @@ Lauren primarily works in R and R studio since it has a great ecology and evolut
 For analytics, Mathematica and Matlab are useful and available from UW. ArcGIS including ArpMap and ArcInfo is available for download, but much spatial analysis can now be done in R or similar programs.
 
 ### Computing
-[Julia- To add Hyak]
 #### Hyak
 _Adapted from the QERM seminar presentation of Connie Okasaki, John Best, Maria Kuruvilla, Martin Endress, Michele Buonanduci_
 Hyak is UW's shared computing cluster. You can send jobs to run in parallel on Hyak and access their GPU nodes.
@@ -34,6 +33,7 @@ Hyak is UW's shared computing cluster. You can send jobs to run in parallel on H
 * Set up [2 Factor Authentication](https://itconnect.uw.edu/security/uw-netids/2fa/)
 * Add Hyak and Lolo as services [here](https://uwnetid.washington.edu/manage/)
 ##### Requesting nodes (to be filled in soon!)
+<code style="color : red">text</code>
 
 ### Cloud Computing
 Our lab also utilizes new technologies to best do research and share our work. We have a lab AWS account for storage and computation. The [Trench-IR](https://trench-ir.trenchproject.com/) website uses the Azure cloud to host images, transform images, and serve the website. More information on our use of cloud computing in Trench-IR can be found [here](https://github.com/trenchproject/Trench-IR).
