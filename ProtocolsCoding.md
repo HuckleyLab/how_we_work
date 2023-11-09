@@ -9,7 +9,7 @@
 
 * [Grasshopper rearing protocol](https://docs.google.com/document/d/1HK-DH1V05pp8BNFbDZXMHibWeuy9Cll6yMpndQdOzH4/)
 
-* UW Biology Fed Ex account # for sending insects, etc.: 297951823. Include the budget number that should be charged.  If you ship with dry ice, you should take this [brief safety training](https://www.washington.edu/research/required-training/shipping-dry-ice-with-non-dangerous-goods-or-exempt-patient-specimens/) and use a shipping label.
+* UW Biology Fed Ex account # for sending insects, etc.: 297951823. Include the budget number that should be charged.  If you ship with dry ice, you should take this [brief safety training](https://www.washington.edu/research/required-training/shipping-dry-ice-with-non-dangerous-goods-or-exempt-patient-specimens/) and use a shipping label. This is the address for shipping with Fed Ex: University of Washington; Department of Biology, 3747 West Stevens Way NE, LSB, Rm B147A Seattle, WA 98195-1800
 
 ## Coding resources
 ### Server access
