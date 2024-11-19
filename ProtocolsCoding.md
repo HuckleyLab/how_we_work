@@ -22,7 +22,7 @@
 * [Inkscape](https://inkscape.org/) is an open source vector graphics editor similar to Adobe Illustrator. Useful for assembling graphs produced in R or GIS into panel figures.
 
 ### Analysis
-* Have an image of a phylogenetic tree and wish you had a date file? Try TreeSnatcher](http://www.cibiv.at/software/treesnatcher/).
+* Have an image of a phylogenetic tree and wish you had a date file? Try [TreeSnatcher](http://www.cibiv.at/software/treesnatcher/).
 
 * [Data Thief](https://www.datathief.org/) extracts data from published figures and there are other tools.
 
