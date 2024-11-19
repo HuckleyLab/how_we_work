@@ -24,23 +24,27 @@
 ## Climate data and projections
 * [NA Regional Reanalysis](https://www.emc.ncep.noaa.gov/mmb/rreanl/)
 
-## Societies
-* [SICB](http://www.sicb.org/)
+## Societies and meetings
+* [SICB](http://www.sicb.org/) Annual meeting in January
 
-* [ESA](https://www.esa.org/)
+* [ESA](https://www.esa.org/) Annual meeting in August
 
-* [SSE](http://www.evolutionsociety.org/)
+* [SSE](http://www.evolutionsociety.org/) Annual meeting in June / July
 
-* [ASN](https://www.amnat.org/home.html)
+* [ASN](https://www.amnat.org/home.html) Meeting every other year in Asilomar, CA
 
-* [IBS](https://www.biogeography.org/)
+* [IBS](https://www.biogeography.org/) Meeting every other year usually in January
 
-* [SCB](https://conbio.org/)
+* [SCB](https://conbio.org/) Annual regional or international meetings
+
+* [Gordon Conference on Unifying Ecology Across Scales](https://www.grc.org/unifying-ecology-across-scales-conference/) Annually in August
+
+* [EVO-WIBO](https://www.zoology.ubc.ca/evo-wibo/) is a biennial meeting of the evolutionary biologists of the Pacific Northwest. Every two years since 2006 except 2020, 120-140 evolutionary biologists from Washington, Idaho, British Columbia, Oregon, and beyond have gathered at Fort Warden for a weekend of outstanding talks, posters, and discussions about all aspects of evolutionary biology.
+  
+* Eco Evo Retreat (for PNW trainees), November, https://ecoevoretreat.wordpress.com/ 
 
 ## Professional development
 * [Spencer Hall’s advice and resources page](https://halllab2.sitehost.iu.edu/grad-student-resources.html)
-
-* [WEBS: Women Evolving Biological Sciences](https://advance.washington.edu/grants/past-initiatives/webs)
 
 * [On the cutting edge (focused on Geoscience)](https://serc.carleton.edu/NAGTWorkshops/index.html)
 
