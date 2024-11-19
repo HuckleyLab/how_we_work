@@ -41,7 +41,7 @@
 
 * [EVO-WIBO](https://www.zoology.ubc.ca/evo-wibo/) is a biennial meeting of the evolutionary biologists of the Pacific Northwest. Every two years since 2006 except 2020, 120-140 evolutionary biologists from Washington, Idaho, British Columbia, Oregon, and beyond have gathered at Fort Warden for a weekend of outstanding talks, posters, and discussions about all aspects of evolutionary biology.
   
-* Eco Evo Retreat (for PNW trainees), November, https://ecoevoretreat.wordpress.com/ 
+* [Eco Evo Retreat](https://ecoevoretreat.wordpress.com/) (for PNW trainees), Annual meeting in November 
 
 ## Professional development
 * [Spencer Hall’s advice and resources page](https://halllab2.sitehost.iu.edu/grad-student-resources.html)
