@@ -5,7 +5,7 @@
 
 * Percival incubators: [Intellus controller](https://www.percival-scientific.com/control-systems/intellusultra-c8/) and [Weathereze software](https://www.percival-scientific.com/control-systems/)
 
-* HOBO Loggers: (https://docs.google.com/document/d/1C5henh2b05lZ92a4kzGJg9SXsq9NzOK_-5-N0TZAPm0/edit?tab=t.0)
+* HOBO Loggers: [Protocol](https://docs.google.com/document/d/1C5henh2b05lZ92a4kzGJg9SXsq9NzOK_-5-N0TZAPm0/edit?tab=t.0)
 * 
 * iButton. [Guide to installing software](https://www.maximintegrated.com/en/design/technical-documents/tutorials/4/4373.html).[Guide to using software](https://www.maximintegrated.com/en/design/technical-documents/userguides-and-manuals/3/3358.html).
 
